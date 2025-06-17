@@ -1,11 +1,10 @@
-/* Computes a test average */
 #include <stdio.h>
 
-int main(void)
-{
-    int total;      /* total score */
-    int students;   /* number of students */
-    double average; /* average score */
+int main(void){
+    
+    int total;
+    int students;  
+    double average; 
 
     printf("Enter total students score> ");
     scanf("%d", &total);
