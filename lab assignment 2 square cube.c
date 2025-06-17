@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int number, square, cube;
 
     printf("Enter an integer: ");
