@@ -3,6 +3,7 @@
 
 
 int main(){
+    
     double a,b,c;
 
     printf("Enter the length of side a>");
