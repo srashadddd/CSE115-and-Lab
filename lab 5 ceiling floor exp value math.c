@@ -3,6 +3,7 @@
 
 
 int main(){
+
     double y;
 
     printf("Enter a decimal number y>");
