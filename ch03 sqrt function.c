@@ -1,5 +1,5 @@
-#include <stdio.h>   // Definitions of printf, scanf
-#include <math.h>    // Definition of sqrt
+#include <stdio.h>
+#include <math.h>
 
 int main(void)
 {
