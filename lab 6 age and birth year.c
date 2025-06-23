@@ -12,10 +12,7 @@ int main(){
     printf("Enter your age>");
     scanf("%d", &age);
 
-    int birthyear=
-    calculateBirthyear(age);
-
-    printf("Your birthyear is> %d", birthyear);
+    printf("Your birthyear is> %d", calculateBirthyear(age));
 
     return 0;
 }
