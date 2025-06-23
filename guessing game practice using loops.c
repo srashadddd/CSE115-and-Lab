@@ -30,6 +30,7 @@ int main() {
                     printf("Too high! Try again.\n");
                 } else {
                     printf("Congratulations! You guessed the correct number.\n");
+                    return 0;
                 }
             } while (guess != correctNumber);
             
