@@ -8,8 +8,8 @@ double rect_diagonal(double length, double width) {
 
 int main(void)
 {
-    double length, width;    /* of a rectangle */
-    double diagonal;         /* of a rectangle */
+    double length, width;
+    double diagonal;
 
     printf("Enter length and width of rectangle> ");
     scanf("%lf%lf", &length, &width);
